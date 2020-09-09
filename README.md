@@ -1,2 +1,16 @@
-# NikeCampaign
-Here i would post all my works with 10 academy week 1 challenge on creating a plan on a campaign for Nike
+### Identifying top Twitter Influencers for Nike Marketing Campaign
+
+## Objective
+
+This analysis was aimed at identifying top twitter influencer and most influential government official accounts on Twitter for Nike new Campaign in Africa.
+
+The following metrics were used in identifying top influencers
+
+1. Reach (Number of Followers) 
+2. Popularity (Counts of Likes and Retweets)
+3. Relevance (Mentions counts)
+
+## Data
+
+Data for this Analysis was gotten using [Twitter API](developer.twitter.com)  
+
