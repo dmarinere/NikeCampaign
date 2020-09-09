@@ -12,5 +12,5 @@ The following metrics were used in identifying top influencers
 
 ## Data
 
-Data for this Analysis was gotten using [Twitter API](developer.twitter.com)  
+Data for this Analysis was gotten using [Twitter API](https://www.developer.twitter.com)  
 
