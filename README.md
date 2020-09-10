@@ -12,9 +12,9 @@ The following metrics were used in identifying top influencers
 
 ## Data
 
-African Leaders Twitter usernames were gotten from []
+African Leaders Twitter usernames were gotten from [African Leaders Response to COVID-19](https://www.atlanticcouncil.org/blogs/africasource/african-leaders-respond-to-coronavirus-on-twitter/#east-africa)
 
-Top Influencers usernames were gotten from [100 Most Influential African](https://africafreak.com/100-most-influential-twitter-users-in-africa) using beautiful soup.
+Top Influencers usernames were gotten from [100 Most Influential African](https://africafreak.com/100-most-influential-twitter-users-in-africa)
 
 The Metrics Data for this Analysis were gotten using [Twitter API](https://developer.twitter.com)  
 
