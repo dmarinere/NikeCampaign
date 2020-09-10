@@ -18,3 +18,7 @@ Top Influencers usernames were gotten from [100 Most Influential African](https:
 
 The Metrics Data for this Analysis were gotten using [Twitter API](https://developer.twitter.com)  
 
+## Notebook 
+Scrapping Starter contains an introduction to my Analysis and how i mined Data from Different Source using Beautiful Soup and Twitter API.
+
+Nike Campaign contd contains my indepth Analysis of the different Leaders and Influencers in Africa.
