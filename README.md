@@ -12,5 +12,9 @@ The following metrics were used in identifying top influencers
 
 ## Data
 
-Data for this Analysis was gotten using [Twitter API](https://www.developer.twitter.com)  
+African Leaders Twitter usernames were gotten from []
+
+Top Influencers usernames were gotten from [100 Most Influential African](https://africafreak.com/100-most-influential-twitter-users-in-africa) using beautiful soup.
+
+The Metrics Data for this Analysis were gotten using [Twitter API](https://developer.twitter.com)  
 
