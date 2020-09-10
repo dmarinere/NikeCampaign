@@ -1,4 +1,4 @@
-### Identifying top Twitter Influencers for Nike Marketing Campaign
+# Identifying top Twitter Influencers for Nike Marketing Campaign
 
 ## Objective
 
